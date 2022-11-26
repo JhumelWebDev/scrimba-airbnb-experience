@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/scrimba-airbnb-experience/static/css/main.22cc392c.css",
+    "main.js": "/scrimba-airbnb-experience/static/js/main.067cc89c.js",
+    "index.html": "/scrimba-airbnb-experience/index.html",
+    "main.22cc392c.css.map": "/scrimba-airbnb-experience/static/css/main.22cc392c.css.map",
+    "main.067cc89c.js.map": "/scrimba-airbnb-experience/static/js/main.067cc89c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22cc392c.css",
+    "static/js/main.067cc89c.js"
+  ]
+}
